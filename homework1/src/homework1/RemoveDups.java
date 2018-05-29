@@ -32,7 +32,6 @@ public class RemoveDups {
 				result.add(string);
 
 			}
-
 		}
 		return result.toArray(new String[result.size()]);
 	}
